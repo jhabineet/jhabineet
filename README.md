@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 💬 Ask me about **Html , Css**
+- 💬 Ask me about JavaScript, MERN Stack , Django , Python , C , C++ ,VS Code , Git , Backend Development.
 
 - 📫 How to reach me **jhabineet0@gmail.com**
 
