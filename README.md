@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="text-align: left; width: 100%; vertical-align: middle;">
-      <h1 style="font-size: 4em;">Hi, I'm Bineet Jha</h1>
+      <h1 style="font-size: 4.1em;">Hi, I'm Bineet Jha</h1>
       <h3>Code, Create, Innovate: The Software Developer's Edge</h3>
     </td>
     <td style="text-align: right; width: 1%; white-space: nowrap;">
