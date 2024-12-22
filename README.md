@@ -4,7 +4,7 @@
     <td style="text-align:centre; width: 100%; vertical-align: middle;">
       <img src="bjimg.gif" alt="My GIF" width="400">
     </td>
-    <td style="text-align: right; width: 1%; white-space: nowrap;">
+    <td style="text-align: right; white-space: nowrap;">
       <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
     </td>
   </tr>
