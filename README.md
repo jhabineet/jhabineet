@@ -1,11 +1,11 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
-<table style="width: 100%; table-layout: fixed;">
+<table>
   <tr>
-    <td style="text-align: center; width: 50%; vertical-align: middle;">
-      <img src="bjimg.gif" alt="My GIF" style="width: 100%; max-width: 400px;">
+    <td style="text-align:centre; width: 100%; vertical-align: middle;">
+      <img src="bjimg.gif" alt="My GIF" width="400">
     </td>
-    <td style="text-align: right; width: 50%; white-space: nowrap;">
-      <img src="n8agw6z2smyb1.gif" alt="My GIF" style="width: 100%; max-width: 400px;">
+    <td style="text-align: right; width: 1%; white-space: nowrap;">
+      <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
     </td>
   </tr>
 </table>
