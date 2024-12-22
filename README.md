@@ -1,5 +1,5 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;overflow: none;">
   <tr>
     <td style="text-align:centre; width: 50%; vertical-align: middle;">
       <img src="bjimg.gif" alt="My GIF" width="400">
