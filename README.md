@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td style="text-align: left; width: 100%; vertical-align: middle;">
-      <h1 style="font-size: 50px;">Hi 👋, I'm BINEET JHA</h1>
-      <h3>Code, Create, Innovate: The Software Developer's Edge</h3>
+      <h1 style="font-size: 4em;">Hi, I'm Bineet Jha</h1>
+      <h3 style="font-size: 1em;">Code, Create, Innovate: The Software Developer's Edge</h3>
     </td>
     <td style="text-align: right; width: 1%; white-space: nowrap;">
       <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
