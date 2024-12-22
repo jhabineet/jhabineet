@@ -10,7 +10,6 @@
     </td>
   </tr>
 </table>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*fgMMAFK0S_vhp3l9PkxsxA.png" alt="java"  height="30%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhabineet&label=Profile%20views&color=0e75b6&style=flat" alt="jhabineet"/> </p>
 
