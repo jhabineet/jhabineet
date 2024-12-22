@@ -1,6 +1,15 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
-<h1 align="center">Hi 👋, I'm Bineet Jha</h1>
-<h3 align="center">A passionate MERN STACK & DJANGO developer from India</h3>
+<table>
+  <tr>
+    <td style="text-align: left; width: 100%; vertical-align: middle;">
+      <h1>Hi 👋, I'm BINEET JHA</h1>
+      <h3>Code, Create, Innovate: The Software Developer's Edge</h3>
+    </td>
+    <td style="text-align: right; width: 1%; white-space: nowrap;">
+      <img src="n8agw6z2smyb1.gif" alt="My GIF" width="300">
+    </td>
+  </tr>
+</table>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*fgMMAFK0S_vhp3l9PkxsxA.png" alt="java"  height="30%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhabineet&label=Profile%20views&color=0e75b6&style=flat" alt="jhabineet"/> </p>
