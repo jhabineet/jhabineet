@@ -33,6 +33,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bineet-jha-2a707825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bineet-jha-2a707825b" height="30" width="40" /></a>
 </p>
 
+<br>
 <h1 align="left">Languages and Tools:</h1>
 <!-- DevOps -->
 <h2>DevOps Tools</h2>
@@ -112,11 +113,15 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" style="margin-right: 30px;"/> 
   </a> 
 </p>
+<br>
 
+<br>
 <h1>Languages and Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhabineet&show_icons=true&locale=en&layout=compact" alt="jhabineet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhabineet&show_icons=true&locale=en" alt="jhabineet" /></p>
-
+<br>
+<br>
 <h1>Total Contributions:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhabineet&" alt="jhabineet" /></p>
+<br>
