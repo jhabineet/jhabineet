@@ -1,9 +1,9 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
 <table>
   <tr>
-    <td style="text-align: left; width: 100%; vertical-align: middle;">
-      <h1><span style="font-size: 4rem;">Hi 👋, I'm BINEET JHA</span></h1>
-      <h3>Code, Create, Innovate: The Software Developer's Edge</h3>
+    <td style="text-align:centre; width: 100%; vertical-align: middle;">
+      <h1>Hi, I'm Bineet Jha</h1>  
+      <h2>Code, Create, Innovate: The Software Developer's Edge</h2>
     </td>
     <td style="text-align: right; width: 1%; white-space: nowrap;">
       <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
