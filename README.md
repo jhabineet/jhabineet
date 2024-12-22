@@ -2,8 +2,7 @@
 <table>
   <tr>
     <td style="text-align:centre; width: 100%; vertical-align: middle;">
-      <h1>Hi, I'm Bineet Jha</h1>  
-      <h2>Code, Create, Innovate: The Software Developer's Edge</h2>
+      <img src="bjimg.gif" alt="My GIF" width="400">
     </td>
     <td style="text-align: right; width: 1%; white-space: nowrap;">
       <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
