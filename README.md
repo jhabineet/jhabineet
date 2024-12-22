@@ -6,7 +6,7 @@
       <h3>Code, Create, Innovate: The Software Developer's Edge</h3>
     </td>
     <td style="text-align: right; width: 1%; white-space: nowrap;">
-      <img src="n8agw6z2smyb1.gif" alt="My GIF" width="500">
+      <img src="n8agw6z2smyb1.gif" alt="My GIF" width="400">
     </td>
   </tr>
 </table>
