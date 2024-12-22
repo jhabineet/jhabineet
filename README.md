@@ -5,11 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhabineet&label=Profile%20views&color=0e75b6&style=flat" alt="jhabineet"/> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🔭 I’m currently working on **Building Projects**
 
-- 💬 Ask me about JavaScript, MERN Stack , Django , Python , C , C++ ,VS Code , Git , Backend Development.
+- 🌱 I’m currently learning **DevOps**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-kappa-lilac-31.vercel.app/](https://portfolio-kappa-lilac-31.vercel.app/)
+
+- 💬 Ask me about **MERN Technologies**
 
 - 📫 How to reach me **jhabineet0@gmail.com**
+
+- ⚡ Fun fact **How do you comfort a JavaScript bug? You console it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
