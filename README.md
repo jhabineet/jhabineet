@@ -9,10 +9,10 @@
     </td>
   </tr>
 </table>
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhabineet&label=Profile%20views&color=0e75b6&style=flat" alt="jhabineet"/> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhabineet" alt="jhabineet" /></a> </p>
 
 - 🔭 I’m currently working on **Building Projects**
@@ -115,12 +115,10 @@
 </p>
 <br>
 
-<br>
 <h1>Languages and Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhabineet&show_icons=true&locale=en&layout=compact" alt="jhabineet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhabineet&show_icons=true&locale=en" alt="jhabineet" /></p>
-<br>
 <br>
 <h1>Total Contributions:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhabineet&" alt="jhabineet" /></p>
