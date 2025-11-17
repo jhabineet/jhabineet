@@ -1,5 +1,5 @@
 ![MasterHead](https://m.media-amazon.com/images/I/51-skR2npjL._AC_UF894,1000_QL80_.jpg)
-<h1 align="center">👋 Hi, I’m Bineet Jha</h1>
+<h1 align="center">👋 Hi, I’m Bunny</h1>
 
 # 💫 About Me
 
